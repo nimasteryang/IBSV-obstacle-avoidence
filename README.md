@@ -4,7 +4,7 @@ An IBVS obstacle Avoidance challenge implementation of [SIMUROSOT-ROBOCHALLENGE]
 
 
 ## Implementation 
-![Implementation-graph](implementation.jpg)
+![Implementation-graph](implementation.png)
 
 ## Run
 
